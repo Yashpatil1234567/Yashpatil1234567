@@ -163,17 +163,6 @@ I'm a final-year **B.Tech CSE (AI & ML)** student who builds at the intersection
 
 <br/>
 
-## Contribution Snake
-
-<div align="center">
-
-<!-- Requires a GitHub Action (platane/snk) to generate this asset into your repo, then reference it below -->
-<img src="https://raw.githubusercontent.com/Yashpatil1234567/Yashpatil1234567/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" width="100%"/>
-
-</div>
-
-<br/>
-
 ## Featured Projects
 
 <table width="100%">
@@ -200,9 +189,9 @@ Full-stack travel booking platform with authentication and booking features.
 <tr>
 <td width="50%" valign="top">
 
-**Industrial Equipment Maintenance System**
+**Student Management System**
 
-Maintenance management system built during AICTE internship.
+Full-stack system to manage student records, attendance, and academic data.
 
 `Java` `Spring Boot` `MySQL`
 
@@ -221,26 +210,6 @@ Collection of optimized Java solutions with clear explanations.
 
 <br/>
 
-## Coding Profiles
-
-<div align="center">
-
-<img src="https://leetcode-stats-card.vercel.app/?username=23UAM109&theme=dark&show_percentile=true" alt="LeetCode Stats" width="80%"/>
-
-</div>
-
-<br/>
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yashpatil1234567&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="100%"/>
-
-</div>
-
-<br/>
-
 ## Connect With Me
 
 <div align="center">
@@ -249,22 +218,6 @@ Collection of optimized Java solutions with clear explanations.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashpatil1234567)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/23UAM109/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yp421416@gmail.com)
-
-</div>
-
-<br/>
-
-## Fun Fact
-
-> I enjoy translating messy real-world problems into clean, well-architected code — and I firmly believe every bug is just an unwritten test case waiting to happen.
-
-<br/>
-
-## Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
