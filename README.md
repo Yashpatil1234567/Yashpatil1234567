@@ -17,19 +17,26 @@
 
 ## About Me
 
-```yaml
-name: "Yash Patil"
-role: "AI & ML Engineer | Java Full Stack Developer"
-education: "Final Year B.Tech CSE (AI & ML)"
-focus:
-  - Artificial Intelligence & Machine Learning
-  - Java Backend Development
-  - Full Stack Web Development
-  - System Design, Spring Boot, REST APIs
-currently_learning: ["Spring Boot", "Microservices", "GenAI"]
-hobby: "Solving LeetCode problems consistently"
-mindset: "Open Source Enthusiast"
-```
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm a final-year **B.Tech CSE (AI & ML)** student who builds at the intersection of **intelligent systems** and **scalable backend engineering** — from training ML models to designing REST APIs that hold up in production.
+
+- Passionate about **AI**, **Java backend development**, and **full-stack web development**
+- Solving **LeetCode** problems consistently to stay sharp on DSA
+- Deep interest in **System Design**, **Spring Boot**, and **REST APIs**
+- Currently leveling up in **Spring Boot**, **Microservices**, and **GenAI**
+- Active **open-source** contributor and enthusiast
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -218,9 +225,7 @@ Collection of optimized Java solutions with clear explanations.
 
 <div align="center">
 
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-
-<img src="https://leetcard.jacoblin.cool/23UAM109?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" width="60%"/>
+<img src="https://leetcode-stats-card.vercel.app/?username=23UAM109&theme=dark&show_percentile=true" alt="LeetCode Stats" width="80%"/>
 
 </div>
 
