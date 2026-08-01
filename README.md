@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Yash%20Patil&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Java%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Yash%20Patil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <a href="https://github.com/Yashpatil1234567">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Final+Year+B.Tech+CSE+(AI+%26+ML)+Student;Building+Intelligent+Systems+with+AI+%2F+ML;Java+%2B+Spring+Boot+Backend+Developer;Full+Stack+Web+Developer;Consistent+LeetCode+Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
