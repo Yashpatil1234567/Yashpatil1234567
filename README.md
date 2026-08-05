@@ -25,8 +25,8 @@ I'm a final-year **B.Tech CSE (AI & ML)** student who builds at the intersection
 
 - Passionate about **AI**, **Java backend development**, and **full-stack web development**
 - Solving **LeetCode** problems consistently to stay sharp on DSA
-- Deep interest in **System Design**, **Spring Boot**, and **REST APIs**
-- Currently leveling up in **Spring Boot**, **Microservices**, and **GenAI**
+- Deep interest in  **Spring Boot**, and **REST APIs**
+- Currently leveling up in **Spring Boot**, and **GenAI**
 - Active **open-source** contributor and enthusiast
 
 </td>
@@ -49,7 +49,6 @@ I'm a final-year **B.Tech CSE (AI & ML)** student who builds at the intersection
 | Backend Engineering | Deepening expertise in Spring Boot & Microservices architecture |
 | Artificial Intelligence | Exploring Generative AI (GenAI) and LLM-based applications |
 | DSA & Interview Prep | Solving LeetCode problems daily to sharpen problem-solving skills |
-| System Design | Learning scalable design patterns for real-world applications |
 
 </div>
 
@@ -79,11 +78,9 @@ I'm a final-year **B.Tech CSE (AI & ML)** student who builds at the intersection
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
 </details>
@@ -216,7 +213,6 @@ Collection of optimized Java solutions with clear explanations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-patil-701324350/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashpatil1234567)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/23UAM109/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yp421416@gmail.com)
 
 </div>
