@@ -193,15 +193,7 @@ Full-stack system to manage student records, attendance, and academic data.
 `Java` `Spring Boot` `MySQL`
 
 </td>
-<td width="50%" valign="top">
 
-**LeetCode Solutions**
-
-Collection of optimized Java solutions with clear explanations.
-
-`Java` `DSA` `Algorithms`
-
-</td>
 </tr>
 </table>
 
